@@ -1,3 +1,7 @@
 Hello, this is demo.
 added the new line.
+<<<<<<< HEAD
 added the third line here.
+=======
+added the second line.
+>>>>>>> c8d4a200cf2b26ec425b0e8f0e522b186f25cecf
